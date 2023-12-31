@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/alanncostaa/CAPA.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/alanncostaa/alanncostaa/CAPA" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Português:
