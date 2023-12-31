@@ -29,7 +29,7 @@ Passionate technology enthusiast dedicated to shaping the future through full st
 
 #### Secondary Stack:
 
-![Figma]((https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white))&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
