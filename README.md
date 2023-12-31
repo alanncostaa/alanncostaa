@@ -2,14 +2,9 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/alanncostaa/alanncostaa/blob/main/CAPA.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Português:
+<p align="center">
 Passionate technology enthusiast dedicated to shaping the future through full stack development.<br><br>Proficient in JavaScript, Java, C, and Python, I leverage my skills to create innovative and impactful solutions. <strong>Committed to technical excellence, I actively seek challenges that drive my professional growth. Grateful to be part of the technological revolution that is transforming the world.</strong>
 </p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=alanncostaa&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-alanncostaa.vercel.app/api/top-langs/?username=alanncostaa&show_icons=true&theme=radical&layout=compact" />
- </div>
  
  &nbsp;
  &nbsp;
